@@ -1,5 +1,5 @@
 Description:
-Camaleon CMS v2.7.4 was discovered to contain a Cross Site Scripting (XSS).
+Camaleon CMS v2.7.4 was discovered to contain a Cross Site Scripting (store XSS).
 
 Affected Component:
 All versions that are below 2.7.4
