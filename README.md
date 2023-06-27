@@ -8,7 +8,7 @@ Step to reproduce :
 Detection and Exploitation:
 1.Go to Add Category 
 
-2.Inject payload : "' test <img src="" onerror="alert(1)">  to name of category and save it 
+2.Inject payload : <code>' test <img src="" onerror="alert(1)"></code>  to name of category and save it 
 
 3. Go to list post and create a new post with a category that include a malicious payload. Then script is execute 
 
